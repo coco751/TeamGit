@@ -1576,3 +1576,660 @@ LogConfig: Set CVar [[r.Nanite.Streaming.AsyncCompute:0	; Temporary workaround f
 [2025.05.20-02.41.20:061][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2120.167480
 [2025.05.20-02.41.21:058][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.05.20-02.41.21:058][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2120.830566, Update Interval: 331.535400
+[2025.05.20-02.47.29:165][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2489.275879
+[2025.05.20-02.47.29:449][823]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-02.47.29:450][824]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2489.542480, Update Interval: 313.085114
+[2025.05.20-02.53.09:254][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.20-02.53.09:255][888]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.025
+[2025.05.20-02.53.09:256][888]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_Title] ([2] browsable assets)...
+[2025.05.20-02.53.09:260][888]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_Title.BP_UI_Title]
+[2025.05.20-02.53.09:260][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_Title]
+[2025.05.20-02.53.09:304][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/UI/BP_UI_Title_Auto3
+[2025.05.20-02.53.09:304][888]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_Title_Auto3CBCA694B4F992E688475B1AE07ECD2EF.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/UI/BP_UI_Title_Auto3.uasset'
+[2025.05.20-02.53.09:308][888]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.05.20-02.53.37:044][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2857.135742
+[2025.05.20-02.53.37:346][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-02.53.37:346][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2857.419434, Update Interval: 300.120850
+[2025.05.20-02.58.04:113][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.05.20-02.58.09:448][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.05.20-02.59.07:965][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.05.20-02.59.10:314][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3190.400635
+[2025.05.20-02.59.10:599][324]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-02.59.10:599][324]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3190.668701, Update Interval: 348.297363
+[2025.05.20-03.03.09:552][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.05.20-03.03.09:556][637]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.028
+[2025.05.20-03.03.09:556][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_Title] ([2] browsable assets)...
+[2025.05.20-03.03.09:562][637]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_Title.BP_UI_Title]
+[2025.05.20-03.03.09:562][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_Title]
+[2025.05.20-03.03.09:569][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/UI/BP_UI_Title_Auto4
+[2025.05.20-03.03.09:569][637]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_Title_Auto4F2294ADD4D7C2856674BFA88E6E965BB.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/UI/BP_UI_Title_Auto4.uasset'
+[2025.05.20-03.03.09:570][637]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_Option] ([2] browsable assets)...
+[2025.05.20-03.03.09:573][637]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_Option.BP_UI_Option]
+[2025.05.20-03.03.09:573][637]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_Option]
+[2025.05.20-03.03.09:575][637]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/UI/BP_UI_Option_Auto4
+[2025.05.20-03.03.09:576][637]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_Option_Auto4EED6F3E14E58EB79EA30089F933AAD76.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/UI/BP_UI_Option_Auto4.uasset'
+[2025.05.20-03.03.09:576][637]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.05.20-03.05.53:438][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3593.517334
+[2025.05.20-03.05.53:723][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-03.05.53:723][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3593.783936, Update Interval: 349.427155
+[2025.05.20-03.07.50:505][489]LogDerivedDataCache: C:/Users/satos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.20-03.12.40:368][639]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4000.435791
+[2025.05.20-03.12.41:363][642]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-03.12.41:363][642]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4001.099854, Update Interval: 343.454102
+[2025.05.20-03.19.15:821][649]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4395.891113
+[2025.05.20-03.19.16:286][676]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-03.19.16:286][676]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4396.341797, Update Interval: 347.187714
+[2025.05.20-03.21.24:404][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.05.20-03.21.24:406][314]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.028
+[2025.05.20-03.21.24:407][314]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_Option] ([2] browsable assets)...
+[2025.05.20-03.21.24:410][314]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_Option.BP_UI_Option]
+[2025.05.20-03.21.24:410][314]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_Option]
+[2025.05.20-03.21.24:413][314]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/UI/BP_UI_Option_Auto5
+[2025.05.20-03.21.24:413][314]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_Option_Auto55DA0614142DAACDE0309E2B24A9D2E82.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/UI/BP_UI_Option_Auto5.uasset'
+[2025.05.20-03.21.24:413][314]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.05.20-03.22.12:607][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.05.20-03.22.12:612][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-03.22.12:672][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TimeGame/UI/BP_UI_Title] ([2] browsable assets)...
+[2025.05.20-03.22.12:672][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_Title]
+[2025.05.20-03.22.12:672][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/UI/BP_UI_Title" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_Title.uasset" SILENT=true
+[2025.05.20-03.22.12:678][926]LogSavePackage: Moving output files for package: /Game/TimeGame/UI/BP_UI_Title
+[2025.05.20-03.22.12:679][926]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_Title74C25F7E433B29AE9A2E5BB437AD599C.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_Title.uasset'
+[2025.05.20-03.22.12:681][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TimeGame/UI/BP_UI_Option] ([2] browsable assets)...
+[2025.05.20-03.22.12:681][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_Option]
+[2025.05.20-03.22.12:681][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/UI/BP_UI_Option" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_Option.uasset" SILENT=true
+[2025.05.20-03.22.12:684][926]LogSavePackage: Moving output files for package: /Game/TimeGame/UI/BP_UI_Option
+[2025.05.20-03.22.12:684][926]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_Option920EF8FE404F7FA59AB383BB1E113C55.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_Option.uasset'
+[2025.05.20-03.22.12:693][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.731 ms (total: 237.096 ms)
+[2025.05.20-03.22.12:754][926]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.20-03.22.12:755][926]LogContentValidation: Enabled validators:
+[2025.05.20-03.22.12:755][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-03.22.12:755][926]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-03.22.12:755][926]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-03.22.12:755][926]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-03.22.12:755][926]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-03.22.12:755][926]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-03.22.12:755][926]AssetCheck: /Game/TimeGame/UI/BP_UI_Title アセットを検証しています
+[2025.05.20-03.22.12:756][926]AssetCheck: /Game/TimeGame/UI/BP_UI_Option アセットを検証しています
+[2025.05.20-03.37.16:632][304]LogAutomationController: Ignoring very large delta of 833.06 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-03.37.20:072][311]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.20-04.13.05:870][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7632.745117
+[2025.05.20-04.13.05:870][311]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: Yes RefreshRequired: Yes VerifyRequired: Yes UserId: f4d...3d8
+[2025.05.20-04.13.05:870][311]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: -421.4 RefreshExpires: 1.554e+07
+[2025.05.20-04.13.05:895][312]LogAutomationController: Ignoring very large delta of 2152.86 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-04.13.05:923][312]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [2156 Seconds] waiting for h/w. InstanceID=1
+[2025.05.20-04.13.06:078][312]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:52447'.
+[2025.05.20-04.13.06:212][312]Could not fetch the local adapter addresses
+[2025.05.20-04.13.06:213][312]LogUdpMessaging: Warning: Failed to join multicast group '230.0.0.1:6666' on detected local interface '0.0.0.0'
+[2025.05.20-04.13.06:264][313]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2025.05.20-04.13.06:273][313]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.05.20-04.13.06:274][313]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=18180
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 0 (Too old connection (2154 seconds idle), disconnect it)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 2 (Closing connection)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:539][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 6 (Hostname in DNS cache was stale, zapped)
+[2025.05.20-04.13.08:540][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.05.20-04.13.08:540][313]LogHttp: Warning: 000004DB003EC400: libcurl info message cache 8 (Closing connection)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B73F100A8-4F89-67D8-4665-1593AD57E8D9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 0 (Too old connection (2154 seconds idle), disconnect it)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 2 (Closing connection)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 4 (Send failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 5 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 6 (Too old connection (2154 seconds idle), disconnect it)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 7 (Connection 19 seems to be dead)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 8 (Closing connection)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 10 (Send failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 11 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 12 (Too old connection (2154 seconds idle), disconnect it)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 13 (Connection 20 seems to be dead)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 14 (Closing connection)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 15 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 16 (Send failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 17 (Recv failure: Connection was reset)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 18 (Hostname in DNS cache was stale, zapped)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 19 (Could not resolve host: api.epicgames.dev)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA67E00: libcurl info message cache 20 (Closing connection)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA6B400: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E94952DA4F03E96E2C38BD8160D79DF0, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA6B400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA6B400: libcurl info message cache 0 (Found bundle for host: 0x4daf2880a80 [serially])
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA6B400: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA6B400: libcurl info message cache 2 (Closing connection)
+[2025.05.20-04.13.08:540][313]LogEOSSDK: Warning: LogHttp: 000004DAFCA66000: invalid HTTP response code received. URL: https://api.epicgames.dev/epic/oauth/v2/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.05.20-04.13.08:540][314]LogEOSSDK: Warning: LogHttp: 000004DAFCA66000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.05.20-04.13.08:540][314]LogEOSSDK: Warning: LogHttp: 000004DAFCA66000: libcurl info message cache 0 (Found bundle for host: 0x4daf2880a80 [serially])
+[2025.05.20-04.13.08:541][314]LogEOSSDK: Warning: LogHttp: 000004DAFCA66000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.05.20-04.13.08:541][314]LogEOSSDK: Warning: LogHttp: 000004DAFCA66000: libcurl info message cache 2 (Closing connection)
+[2025.05.20-04.13.08:541][314]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.05.20-04.13.08:541][314]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E94952DA4F03E96E2C38BD8160D79DF0
+[2025.05.20-04.13.08:543][314]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.05.20-04.13.08:547][314]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7a72378e-78b5-410d-a63d-e3c3eb5c08ca}, Name=スピーカー (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1677.03
+[2025.05.20-04.13.08:549][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.05.20-04.13.08:554][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.05.20-04.13.08:558][314]LogAutomationController: Ignoring very large delta of 2.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-04.13.08:559][314]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B73F100A8-4F89-67D8-4665-1593AD57E8D9%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.05.20-04.13.09:133][314]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:65199'.
+[2025.05.20-04.13.09:137][314]LogUdpMessaging: Display: Added local interface '10.40.2.78' to multicast group '230.0.0.1:6666'
+[2025.05.20-04.13.09:823][317]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.05.20-04.13.09:823][318]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E94952DA4F03E96E2C38BD8160D79DF0
+[2025.05.20-04.13.10:494][319]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/epic/oauth/v2/token
+[2025.05.20-04.13.10:836][320]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: f4d...3d8 Access[Expires: 2025.05.20-06.12.31 Remaining: 7200.69] Refresh[Expires: 2025-11-16T01:57:37.368Z Remaining: 15543906.37] State: Valid
+[2025.05.20-04.13.10:844][321]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.13.10:844][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7637.711914, Update Interval: 338.825043
+[2025.05.20-04.13.11:143][356]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=E94952DA4F03E96E2C38BD8160D79DF0
+[2025.05.20-04.13.32:611][751]LogSlate: Window '親クラスを選択' being destroyed
+[2025.05.20-04.13.32:623][751]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.20-04.13.32:629][751]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.20-04.13.32:638][751]LogAutomationController: Ignoring very large delta of 9.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-04.13.32:653][753]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.20-04.14.33:849][607]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Obj_
+[2025.05.20-04.14.33:861][607]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.20-04.15.49:061][466]LogContentBrowser: Attempting asset rename: BP_Obj_ -> BP_Obj_floor
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.SKEL_BP_Obj_floor_C:UserConstructionScript' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.SKEL_BP_Obj_floor_C' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor_C' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:279][466]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_.PackageMetaData'
+[2025.05.20-04.15.49:286][466]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-04.15.49:287][466]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/MapObjects/BP_Obj_floor] ([2] browsable assets)...
+[2025.05.20-04.15.49:287][466]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/MapObjects/BP_Obj_floor]
+[2025.05.20-04.15.49:287][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/MapObjects/BP_Obj_floor" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor.uasset" SILENT=true
+[2025.05.20-04.15.49:293][466]LogSavePackage: Moving output files for package: /Game/TimeGame/MapObjects/BP_Obj_floor
+[2025.05.20-04.15.49:293][466]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_Obj_floor0DA0355F459019A106D6A29E9B139403.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor.uasset'
+[2025.05.20-04.15.49:298][466]LogFileHelpers: InternalPromptForCheckoutAndSave took 11.357 ms (total: 248.454 ms)
+[2025.05.20-04.15.49:354][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.05.20-04.15.49:373][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.20-04.15.49:387][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.05.20-04.15.49:442][466]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-04.15.49:442][466]LogContentValidation: Enabled validators:
+[2025.05.20-04.15.49:442][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-04.15.49:442][466]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-04.15.49:442][466]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-04.15.49:442][466]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-04.15.49:442][466]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-04.15.49:442][466]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-04.15.49:443][466]AssetCheck: /Game/TimeGame/MapObjects/BP_Obj_floor アセットを検証しています
+[2025.05.20-04.15.52:684][851]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor
+[2025.05.20-04.15.52:687][851]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.05.20-04.15.52:769][851]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.20-04.16.05:368][951]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.05.20-04.16.05:715][954]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.05.20-04.16.05:773][955]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.05.20-04.17.07:842][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.20-04.17.14:104][124]LogSlate: Window 'BP_Obj_floor' being destroyed
+[2025.05.20-04.17.14:111][124]LogSlate: Window 'BP_Obj_floor' being destroyed
+[2025.05.20-04.17.14:146][124]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-04.17.14:149][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-04.17.14:163][124]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-04.17.14:163][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-04.17.14:225][124]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-04.17.14:225][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-04.17.14:231][124]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-04.17.14:231][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-04.17.14:274][124]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-04.17.14:274][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-04.17.14:341][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.20-04.17.18:927][388]LogSlate: Window '親クラスを選択' being destroyed
+[2025.05.20-04.17.18:945][388]LogAutomationController: Ignoring very large delta of 2.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-04.17.51:929][184]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.05.20-04.18.03:342][533]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.05.20-04.18.03:346][533]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.05.20-04.18.03:366][534]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.05.20-04.18.21:698][730]LogContentBrowser: Attempting asset rename: NewMaterial -> Obj_floor
+[2025.05.20-04.18.21:700][730]LogContentBrowser: End creating deferred item NewMaterial
+[2025.05.20-04.18.23:524][937]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TimeGame/MapObjects/Obj_floor.Obj_floor
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.05.20-04.18.23:535][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.05.20-04.18.23:535][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.05.20-04.18.23:536][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.05.20-04.18.23:536][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.05.20-04.18.23:537][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.05.20-04.18.23:537][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.05.20-04.18.23:537][937]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.05.20-04.18.23:537][937]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.05.20-04.18.23:557][937]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.05.20-04.18.23:564][937]LogStreaming: Display: FlushAsyncLoading(537): 1 QueuedPackages, 0 AsyncPackages
+[2025.05.20-04.18.24:042][937]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.20-04.18.24:042][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.20-04.18.24:042][937]MaterialEditorStats: Shader Count: 0
+[2025.05.20-04.18.24:042][937]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.05.20-04.18.28:435][217]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.20-04.18.28:435][217]MaterialEditorStats: Texture samplers: 0/16
+[2025.05.20-04.18.28:435][217]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.20-04.18.28:435][217]MaterialEditorStats: Shader Count: 1
+[2025.05.20-04.18.28:436][217]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.05.20-04.18.28:502][219]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.05.20-04.18.28:502][219]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.05.20-04.18.28:502][219]MaterialEditorStats: Texture samplers: 1/16
+[2025.05.20-04.18.28:502][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.05.20-04.18.28:502][219]MaterialEditorStats: Shader Count: 2
+[2025.05.20-04.18.28:502][219]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.05.20-04.18.34:229][638]LogEditorTransaction: Undo コンポーネントを追加
+[2025.05.20-04.18.35:220][688]LogEditorTransaction: Undo Size To Content を編集
+[2025.05.20-04.18.35:984][743]LogEditorTransaction: Undo Size To Content を編集
+[2025.05.20-04.18.36:560][783]LogEditorTransaction: Undo Y を編集
+[2025.05.20-04.18.36:866][804]LogEditorTransaction: Undo Y を編集
+[2025.05.20-04.18.37:163][826]LogEditorTransaction: Undo Y を編集
+[2025.05.20-04.18.37:368][841]LogEditorTransaction: Undo Y を編集
+[2025.05.20-04.18.37:734][868]LogEditorTransaction: Undo Y を編集
+[2025.05.20-04.18.47:315][614]LogSlate: Window 'Obj_floor' being destroyed
+[2025.05.20-04.18.52:754][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.05.20-04.18.54:315][210]LogSlate: Window 'Delete Assets' being destroyed
+[2025.05.20-04.18.54:379][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.05.20-04.18.54:404][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.05.20-04.18.54:427][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.05.20-04.19.05:890][500]LogShaderCompilers: Display: ================================================
+[2025.05.20-04.19.05:890][500]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Total job queries 49, among them cache hits 11 (22.45%), DDC hits 33 (67.35%), Duplicates 2 (4.08%)
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Tracking 36 distinct input hashes that result in 27 distinct outputs (75.00%)
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: RAM used: 65.53 KiB of 819.20 MiB budget. Usage: 0.01%
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Shaders Compiled: 3
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Job execution time: average 4.46 s, max 4.87 s
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Job life time (pending + execution): average 4.49 s, max 4.89
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Shader code size: average 8.548 KiB, min 7.188 KiB, max 10.91 KiB
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.89 s
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Average processing rate: 0.61 jobs/sec
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Total thread time: 2.497 s
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Total thread preprocess time: 1.107 s
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Percentage time preprocessing: 44.32%
+[2025.05.20-04.19.05:891][500]LogShaderCompilers: Display: Effective parallelization: 0.51 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 50.80% of total time (compiled    1 times, average 1.27 sec, max 1.27 sec, min 1.27 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.96% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.25% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display:                                                  FHitProxyPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: === Material stats ===
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Materials Translated:    126
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Material Translation Only: 0.06 s (32%)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: Material Cache Hits: 8 (6%)
+[2025.05.20-04.19.05:892][500]LogShaderCompilers: Display: ================================================
+[2025.05.20-04.19.44:110][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8030.928711
+[2025.05.20-04.19.44:378][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.19.44:378][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8031.191406, Update Interval: 307.260345
+[2025.05.20-04.19.46:606][132]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor
+[2025.05.20-04.19.46:606][132]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.05.20-04.19.51:989][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.05.20-04.20.05:211][951]LogSlate: Window 'BP_Obj_floor' being destroyed
+[2025.05.20-04.20.05:230][951]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-04.20.05:230][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-04.20.05:249][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor
+[2025.05.20-04.20.05:250][951]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.05.20-04.20.05:646][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.05.20-04.20.22:056][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.20-04.20.23:952][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-04.20.24:024][377]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/MapObjects/BP_Obj_floor] ([2] browsable assets)...
+[2025.05.20-04.20.24:031][377]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor.BP_Obj_floor]
+[2025.05.20-04.20.24:031][377]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/MapObjects/BP_Obj_floor]
+[2025.05.20-04.20.24:031][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/MapObjects/BP_Obj_floor" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor.uasset" SILENT=true
+[2025.05.20-04.20.24:035][377]LogSavePackage: Moving output files for package: /Game/TimeGame/MapObjects/BP_Obj_floor
+[2025.05.20-04.20.24:036][377]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_Obj_floor05B4C7364A3EC39116F2BB91F47A4372.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor.uasset'
+[2025.05.20-04.20.24:047][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.746 ms (total: 344.200 ms)
+[2025.05.20-04.20.24:121][377]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-04.20.24:121][377]LogContentValidation: Enabled validators:
+[2025.05.20-04.20.24:121][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-04.20.24:121][377]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-04.20.24:121][377]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-04.20.24:121][377]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-04.20.24:121][377]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-04.20.24:121][377]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-04.20.24:121][377]AssetCheck: /Game/TimeGame/MapObjects/BP_Obj_floor アセットを検証しています
+[2025.05.20-04.20.47:002][797]LogSlate: Window 'リビジョンコントロールにログイン' being destroyed
+[2025.05.20-04.21.01:867][319]LogContentBrowser: Attempting asset rename: BP_Obj_floor -> BP_Obj_floor_static
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.BP_Obj_floor_static_C' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.SKEL_BP_Obj_floor_static_C' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.BP_Obj_floor_static:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.BP_Obj_floor_static:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.BP_Obj_floor_static:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.BP_Obj_floor_static:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.SKEL_BP_Obj_floor_static_C:ReceiveBeginPlay' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.SKEL_BP_Obj_floor_static_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.SKEL_BP_Obj_floor_static_C:ReceiveTick' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:968][319]LogMetaData: Removing '/Game/TimeGame/MapObjects/BP_Obj_floor_static.SKEL_BP_Obj_floor_static_C:UserConstructionScript' ref from Metadata '/Game/TimeGame/MapObjects/BP_Obj_floor.PackageMetaData'
+[2025.05.20-04.21.01:982][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-04.21.01:982][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TimeGame/MapObjects/BP_Obj_floor_static] ([2] browsable assets)...
+[2025.05.20-04.21.01:982][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/MapObjects/BP_Obj_floor_static]
+[2025.05.20-04.21.01:982][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/MapObjects/BP_Obj_floor_static" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor_static.uasset" SILENT=true
+[2025.05.20-04.21.01:985][319]LogSavePackage: Moving output files for package: /Game/TimeGame/MapObjects/BP_Obj_floor_static
+[2025.05.20-04.21.01:985][319]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_Obj_floor_staticFAC6F13645C7B9FAFA834F89AB1ED956.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor_static.uasset'
+[2025.05.20-04.21.01:991][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.807 ms (total: 355.007 ms)
+[2025.05.20-04.21.02:028][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.20-04.21.02:051][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.05.20-04.21.02:070][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.05.20-04.21.02:151][319]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-04.21.02:151][319]LogContentValidation: Enabled validators:
+[2025.05.20-04.21.02:151][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-04.21.02:151][319]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-04.21.02:151][319]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-04.21.02:151][319]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-04.21.02:151][319]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-04.21.02:151][319]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-04.21.02:151][319]AssetCheck: /Game/TimeGame/MapObjects/BP_Obj_floor_static アセットを検証しています
+[2025.05.20-04.21.02:160][319]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.05.20-04.21.10:339][ 67]LogSlate: Window '親クラスを選択' being destroyed
+[2025.05.20-04.21.10:368][ 67]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.20-04.21.10:373][ 67]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.20-04.21.10:381][ 68]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.20-04.21.28:777][206]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Obj_floor_move
+[2025.05.20-04.21.28:786][206]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.20-04.21.28:928][221]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor_move.BP_Obj_floor_move
+[2025.05.20-04.21.28:928][221]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.05.20-04.21.33:336][534]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.05.20-04.24.49:942][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.05.20-04.24.49:944][903]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.036
+[2025.05.20-04.24.49:944][903]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/MapObjects/BP_Obj_floor_move] ([2] browsable assets)...
+[2025.05.20-04.24.49:959][903]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor_move.BP_Obj_floor_move]
+[2025.05.20-04.24.49:959][903]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/MapObjects/BP_Obj_floor_move]
+[2025.05.20-04.24.49:961][903]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/MapObjects/BP_Obj_floor_move_Auto6
+[2025.05.20-04.24.49:961][903]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_Obj_floor_move_Auto63CF79483434A4607207889AA6C0CD8F7.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/MapObjects/BP_Obj_floor_move_Auto6.uasset'
+[2025.05.20-04.24.49:962][903]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.05.20-04.25.43:540][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8390.433594
+[2025.05.20-04.25.44:540][ 67]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.25.44:540][ 67]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8391.106445, Update Interval: 333.868225
+[2025.05.20-04.29.58:253][301]LogSlate: Took 0.006867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.20-04.32.15:208][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8782.142578
+[2025.05.20-04.32.15:454][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.32.15:454][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8782.375977, Update Interval: 308.655670
+[2025.05.20-04.35.35:120][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.20-04.35.35:121][456]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.028
+[2025.05.20-04.35.35:121][456]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/MapObjects/BP_Obj_floor_move] ([2] browsable assets)...
+[2025.05.20-04.35.35:137][456]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TimeGame/MapObjects/BP_Obj_floor_move.BP_Obj_floor_move]
+[2025.05.20-04.35.35:137][456]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/MapObjects/BP_Obj_floor_move]
+[2025.05.20-04.35.35:144][456]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/MapObjects/BP_Obj_floor_move_Auto7
+[2025.05.20-04.35.35:144][456]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_Obj_floor_move_Auto7CA706993498D1F70353C949E209FB4F8.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/MapObjects/BP_Obj_floor_move_Auto7.uasset'
+[2025.05.20-04.35.35:145][456]LogFileHelpers: Auto-saving content packages took 0.024
+[2025.05.20-04.37.56:423][546]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9123.481445
+[2025.05.20-04.37.57:425][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.37.57:425][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9124.149414, Update Interval: 333.328033
+[2025.05.20-04.40.50:048][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-04.40.50:096][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TimeGame/MapObjects/BP_Obj_floor_move] ([2] browsable assets)...
+[2025.05.20-04.40.50:096][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/MapObjects/BP_Obj_floor_move]
+[2025.05.20-04.40.50:096][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/MapObjects/BP_Obj_floor_move" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor_move.uasset" SILENT=true
+[2025.05.20-04.40.50:099][347]LogSavePackage: Moving output files for package: /Game/TimeGame/MapObjects/BP_Obj_floor_move
+[2025.05.20-04.40.50:100][347]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_Obj_floor_move56082BBC4F61ED386EAA3EB8B982A03E.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/MapObjects/BP_Obj_floor_move.uasset'
+[2025.05.20-04.40.50:112][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.242 ms (total: 419.250 ms)
+[2025.05.20-04.40.50:157][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-04.40.50:158][347]LogContentValidation: Enabled validators:
+[2025.05.20-04.40.50:158][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-04.40.50:158][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-04.40.50:158][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-04.40.50:158][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-04.40.50:158][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-04.40.50:158][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-04.40.50:158][347]AssetCheck: /Game/TimeGame/MapObjects/BP_Obj_floor_move アセットを検証しています
+[2025.05.20-04.40.51:327][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.05.20-04.41.17:938][892]LogSlate: Window '新しいウィジェットブループリントの親クラスを選択' being destroyed
+[2025.05.20-04.41.17:950][892]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.20-04.41.17:955][892]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.20-04.41.17:957][892]LogAutomationController: Ignoring very large delta of 4.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.20-04.41.17:964][893]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.20-04.42.48:844][772]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_UI
+[2025.05.20-04.42.48:851][772]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.20-04.44.21:610][ 56]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9508.999023
+[2025.05.20-04.44.22:608][ 59]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.44.22:609][ 60]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9509.666016, Update Interval: 302.697235
+[2025.05.20-04.45.38:355][ 26]LogContentBrowser: Attempting asset rename: BP_UI -> BP_UI_GameClear
+[2025.05.20-04.45.38:445][ 26]LogMetaData: Removing '/Game/TimeGame/UI/BP_UI_GameClear.SKEL_BP_UI_GameClear_C' ref from Metadata '/Game/TimeGame/UI/BP_UI.PackageMetaData'
+[2025.05.20-04.45.38:445][ 26]LogMetaData: Removing '/Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear_C' ref from Metadata '/Game/TimeGame/UI/BP_UI.PackageMetaData'
+[2025.05.20-04.45.38:445][ 26]LogMetaData: Removing '/Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TimeGame/UI/BP_UI.PackageMetaData'
+[2025.05.20-04.45.38:445][ 26]LogMetaData: Removing '/Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TimeGame/UI/BP_UI.PackageMetaData'
+[2025.05.20-04.45.38:445][ 26]LogMetaData: Removing '/Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TimeGame/UI/BP_UI.PackageMetaData'
+[2025.05.20-04.45.38:445][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-04.45.38:445][ 26]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_GameClear] ([2] browsable assets)...
+[2025.05.20-04.45.38:447][ 26]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear]
+[2025.05.20-04.45.38:447][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_GameClear]
+[2025.05.20-04.45.38:447][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/UI/BP_UI_GameClear" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_GameClear.uasset" SILENT=true
+[2025.05.20-04.45.38:449][ 26]LogSavePackage: Moving output files for package: /Game/TimeGame/UI/BP_UI_GameClear
+[2025.05.20-04.45.38:449][ 26]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_GameClear1AAE426E4DF956799A37C4854A2CCA8C.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_GameClear.uasset'
+[2025.05.20-04.45.38:456][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.837 ms (total: 430.087 ms)
+[2025.05.20-04.45.38:507][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.05.20-04.45.38:525][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.05.20-04.45.38:544][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.05.20-04.45.38:606][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: Enabled validators:
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-04.45.38:607][ 26]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-04.45.38:607][ 26]AssetCheck: /Game/TimeGame/UI/BP_UI_GameClear アセットを検証しています
+[2025.05.20-04.45.49:816][936]LogSlate: Window '新しいウィジェットブループリントの親クラスを選択' being destroyed
+[2025.05.20-04.45.49:826][936]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.05.20-04.45.49:830][936]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.05.20-04.45.49:839][937]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.05.20-04.46.02:123][407]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_UI_GaneOver
+[2025.05.20-04.46.02:130][407]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.05.20-04.46.05:278][778]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear
+[2025.05.20-04.46.05:278][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2025.05.20-04.46.05:285][778]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2025.05.20-04.46.44:121][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.20-04.46.44:123][157]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_0' took 0.050
+[2025.05.20-04.46.44:123][157]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_GameClear] ([2] browsable assets)...
+[2025.05.20-04.46.44:124][157]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear]
+[2025.05.20-04.46.44:124][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_GameClear]
+[2025.05.20-04.46.44:127][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/UI/BP_UI_GameClear_Auto8
+[2025.05.20-04.46.44:127][157]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_GameClear_Auto8357E57C449E44D88A51C4D877BB07DF2.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/UI/BP_UI_GameClear_Auto8.uasset'
+[2025.05.20-04.46.44:128][157]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_GaneOver] ([2] browsable assets)...
+[2025.05.20-04.46.44:130][157]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_GaneOver.BP_UI_GaneOver]
+[2025.05.20-04.46.44:130][157]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_GaneOver]
+[2025.05.20-04.46.44:132][157]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/UI/BP_UI_GaneOver_Auto8
+[2025.05.20-04.46.44:132][157]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_GaneOver_Auto8F15FB30A464C989D5391738AFFEC369D.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/UI/BP_UI_GaneOver_Auto8.uasset'
+[2025.05.20-04.46.44:133][157]LogFileHelpers: Auto-saving content packages took 0.010
+[2025.05.20-04.49.56:311][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9843.565430
+[2025.05.20-04.49.56:593][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.49.56:593][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9843.833008, Update Interval: 300.430298
+[2025.05.20-04.55.33:424][343]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10180.408203
+[2025.05.20-04.55.34:422][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-04.55.34:422][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10181.065430, Update Interval: 347.359833
+[2025.05.20-04.57.27:752][665]LogDerivedDataCache: C:/Users/satos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.05.20-05.02.17:299][628]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10584.243164
+[2025.05.20-05.02.18:292][630]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.20-05.02.18:292][630]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10584.906250, Update Interval: 356.896271
+[2025.05.20-05.03.03:581][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.05.20-05.03.06:657][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.20-05.03.06:660][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.20-05.03.06:707][288]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TimeGame/UI/BP_UI_GameClear] ([2] browsable assets)...
+[2025.05.20-05.03.06:711][288]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/TimeGame/UI/BP_UI_GameClear.BP_UI_GameClear]
+[2025.05.20-05.03.06:711][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_GameClear]
+[2025.05.20-05.03.06:711][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/UI/BP_UI_GameClear" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_GameClear.uasset" SILENT=true
+[2025.05.20-05.03.06:713][288]LogSavePackage: Moving output files for package: /Game/TimeGame/UI/BP_UI_GameClear
+[2025.05.20-05.03.06:714][288]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_GameClearE5DE05034178AA8294442FA6F158057E.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_GameClear.uasset'
+[2025.05.20-05.03.06:715][288]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TimeGame/UI/BP_UI_GaneOver] ([2] browsable assets)...
+[2025.05.20-05.03.06:715][288]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/UI/BP_UI_GaneOver]
+[2025.05.20-05.03.06:715][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/UI/BP_UI_GaneOver" FILE="../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_GaneOver.uasset" SILENT=true
+[2025.05.20-05.03.06:717][288]LogSavePackage: Moving output files for package: /Game/TimeGame/UI/BP_UI_GaneOver
+[2025.05.20-05.03.06:717][288]LogSavePackage: Moving '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Saved/BP_UI_GaneOverBC75EF7C4DC4AF7D101F14882A2ED702.tmp' to '../../../../../../Users/satos/OneDrive/デスクトップ/TeamGit/Content/TimeGame/UI/BP_UI_GaneOver.uasset'
+[2025.05.20-05.03.06:727][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.986 ms (total: 497.073 ms)
+[2025.05.20-05.03.06:783][288]LogContentValidation: Display: Starting to validate 2 assets
+[2025.05.20-05.03.06:783][288]LogContentValidation: Enabled validators:
+[2025.05.20-05.03.06:783][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.05.20-05.03.06:783][288]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.20-05.03.06:783][288]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.20-05.03.06:783][288]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.05.20-05.03.06:783][288]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.20-05.03.06:783][288]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.05.20-05.03.06:783][288]AssetCheck: /Game/TimeGame/UI/BP_UI_GameClear アセットを検証しています
+[2025.05.20-05.03.06:784][288]AssetCheck: /Game/TimeGame/UI/BP_UI_GaneOver アセットを検証しています
+[2025.05.20-05.03.11:244][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.05.20-05.03.11:278][819]LogStall: Shutdown...
+[2025.05.20-05.03.11:278][819]LogStall: Shutdown complete.
+[2025.05.20-05.03.11:319][819]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.11:319][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.11:324][819]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.11:324][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.11:360][819]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.11:360][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.11:397][819]LogSlate: Window 'BP_Obj_floor_static' being destroyed
+[2025.05.20-05.03.11:406][819]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.05.20-05.03.11:406][819]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.11:406][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.11:464][819]LogSlate: Window 'TimeGame - Unreal Editor' being destroyed
+[2025.05.20-05.03.11:467][819]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Google 日本語入力 (TSF IME).
+[2025.05.20-05.03.11:928][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2025.05.20-05.03.11:946][820]Cmd: QUIT_EDITOR
+[2025.05.20-05.03.11:946][820]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.05.20-05.03.11:961][820]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.05.20-05.03.11:964][820]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.05.20-05.03.11:964][820]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.05.20-05.03.11:965][820]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.11:966][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:000][820]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.05.20-05.03.12:014][820]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.05.20-05.03.12:025][820]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.12:025][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:029][820]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.12:030][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:035][820]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.12:035][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:042][820]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.12:042][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:050][820]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.12:050][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:054][820]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.05.20-05.03.12:055][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.20-05.03.12:066][820]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.05.20-05.03.12:077][820]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.05.20-05.03.12:077][820]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.05.20-05.03.12:077][820]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.05.20-05.03.12:084][820]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.05.20-05.03.12:084][820]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.05.20-05.03.12:084][820]LogAudio: Display: Audio Device unregistered from world 'Untitled'.
+[2025.05.20-05.03.12:085][820]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.05.20-05.03.12:085][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.20-05.03.12:089][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.05.20-05.03.12:110][820]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.05.20-05.03.12:110][820]LogAudio: Display: Audio Device Manager Shutdown
+[2025.05.20-05.03.12:114][820]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.05.20-05.03.12:115][820]LogExit: Preparing to exit.
+[2025.05.20-05.03.12:315][820]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2025.05.20-05.03.12:318][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:319][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:324][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:325][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:326][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.12:327][820]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.05.20-05.03.13:195][820]LogEditorDataStorage: Deinitializing
+[2025.05.20-05.03.13:594][820]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.05.20-05.03.13:711][820]LogExit: Editor shut down
+[2025.05.20-05.03.13:753][820]LogExit: Transaction tracking system shut down
+[2025.05.20-05.03.14:817][820]LogExit: Object subsystem successfully closed.
+[2025.05.20-05.03.14:883][820]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.05.20-05.03.15:396][820]LogMemoryProfiler: Shutdown
+[2025.05.20-05.03.15:400][820]LogNetworkingProfiler: Shutdown
+[2025.05.20-05.03.15:401][820]LoadingProfiler: Shutdown
+[2025.05.20-05.03.15:403][820]LogTimingProfiler: Shutdown
+[2025.05.20-05.03.16:625][820]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.05.20-05.03.16:687][820]RenderDocPlugin: plugin has been unloaded.
+[2025.05.20-05.03.16:755][820]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.05.20-05.03.16:755][820]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9BA4695C-4905-445A-A61E-D4B936B55133%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=5ecec0ab475ecc2a1c856f87876d3001%7Cf4d1f677588249f0aee354917b1ed3d8%7C65ea088d-94df-41be-8b6f-06b30c697cd5&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.05.20-05.03.17:863][820]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.05.20-05.03.17:863][820]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.05.20-05.03.17:863][820]LogNFORDenoise: NFORDenoise function shutting down
+[2025.05.20-05.03.17:868][820]LogXGEController: Cleaning working directory: C:/Users/satos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.05.20-05.03.17:877][820]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.05.20-05.03.17:877][820]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.05.20-05.03.17:877][820]LogPakFile: Destroying PakPlatformFile
+[2025.05.20-05.03.17:936][820]LogD3D12RHI: Intel Extensions Framework unloaded
+[2025.05.20-05.03.18:620][820]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.05.20-05.03.18:824][820]LogExit: Exiting.
+[2025.05.20-05.03.18:887][820]Log file closed, 05/20/25 14:03:18

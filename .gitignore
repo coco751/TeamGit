@@ -1,0 +1,55 @@
+# バイナリ、ビルドファイル
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# 一部のプラグインで生成されるキャッシュ
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ログファイル
+*.log
+
+# コンパイル済みのバイナリ
+*.dll
+*.exe
+*.pdb
+*.app
+*.dylib
+*.lib
+*.apk
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# バックアップ
+*.tmp
+*.bak
+*.backup
+*.orig
+*.swp
+
+# その他不要ファイル
+*.opensdf
+*.sdf
+*.sln
+*.VC.db
+*.VC.VC.opendb
+
+# Rider IDE
+.idea/
+*.iml
+
+# Unreal Engine プロジェクトの自動生成 Visual Studio プロジェクトファイル
+*.sln
+*.vcxproj*

@@ -7,7 +7,7 @@ Saved/
 
 #content
 !Content/
-Content/ParagonAurora
+Content/ParagonAurora/
 
 # 一部のプラグインで生成されるキャッシュ
 .vscode/

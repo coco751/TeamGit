@@ -1658,3 +1658,240 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.06.03-04.21.36:649][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8156.437500
 [2025.06.03-04.21.37:653][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.06.03-04.21.37:653][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8157.109375, Update Interval: 304.046753
+[2025.06.03-04.22.26:613][471]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TimeGame/Input/IA_Jamp.IA_Jamp
+[2025.06.03-04.22.34:742][938]LogSlate: Window 'IA_Jamp' being destroyed
+[2025.06.03-04.22.34:751][938]LogSlate: Window 'IA_Jamp' being destroyed
+[2025.06.03-04.22.39:197][197]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TimeGame/Input/IA_Jamp.IA_Jamp
+[2025.06.03-04.22.52:931][999]LogSlate: Window 'IA_Jamp' being destroyed
+[2025.06.03-04.22.52:940][999]LogSlate: Window 'IA_Jamp' being destroyed
+[2025.06.03-04.27.18:463][989]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8498.244141
+[2025.06.03-04.27.19:461][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-04.27.19:461][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8498.910156, Update Interval: 316.078979
+[2025.06.03-04.30.58:301][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.06.03-04.30.58:304][648]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TimeGame/Levels/Level_Play' took 0.051
+[2025.06.03-04.30.58:304][648]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IA_Jamp] ([1] browsable assets)...
+[2025.06.03-04.30.58:304][648]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IA_Jamp]
+[2025.06.03-04.30.58:305][648]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/Input/IA_Jamp_Auto5
+[2025.06.03-04.30.58:305][648]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IA_Jamp_Auto5548E2A154606DE907A724783F145D1BA.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/Input/IA_Jamp_Auto5.uasset'
+[2025.06.03-04.30.58:307][648]LogFileHelpers: Auto-saving content packages took 0.002
+[2025.06.03-04.32.25:910][436]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TimeGame/Input/PlayController.PlayController
+[2025.06.03-04.32.31:892][778]LogSlate: Took 0.006657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.03-04.33.23:039][923]LogSlate: Window 'PlayController' being destroyed
+[2025.06.03-04.33.23:048][923]LogSlate: Window 'PlayController' being destroyed
+[2025.06.03-04.33.30:594][330]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.06.03-04.33.30:599][330]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.06.03-04.33.30:610][331]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.06.03-04.33.30:802][342]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8870.557617
+[2025.06.03-04.33.31:085][359]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-04.33.31:085][359]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8870.824219, Update Interval: 300.058594
+[2025.06.03-04.33.47:870][346]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Accelerate
+[2025.06.03-04.33.47:871][346]LogContentBrowser: End creating deferred item NewInputAction
+[2025.06.03-04.33.48:014][353]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TimeGame/Input/IA_Move.IA_Move
+[2025.06.03-04.33.49:425][422]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TimeGame/Input/IA_Accelerate.IA_Accelerate
+[2025.06.03-04.35.18:210][663]LogSlate: Window 'IA_Accelerate' being destroyed
+[2025.06.03-04.35.18:220][663]LogSlate: Window 'IA_Accelerate' being destroyed
+[2025.06.03-04.35.23:345][935]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2025.06.03-04.35.23:354][935]LogContentBrowser: Creating deferred item: NewInputAction
+[2025.06.03-04.35.23:364][936]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2025.06.03-04.35.30:351][345]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Look
+[2025.06.03-04.35.30:355][345]LogContentBrowser: End creating deferred item NewInputAction
+[2025.06.03-04.35.31:798][430]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/TimeGame/Input/IA_Look.IA_Look
+[2025.06.03-04.39.03:012][501]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9202.768555
+[2025.06.03-04.39.03:295][519]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-04.39.03:296][519]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9203.034180, Update Interval: 340.454712
+[2025.06.03-04.45.25:156][653]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9584.852539
+[2025.06.03-04.45.25:439][670]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-04.45.25:439][670]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9585.117188, Update Interval: 355.299530
+[2025.06.03-04.52.18:753][467]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9998.375977
+[2025.06.03-04.52.19:019][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-04.52.19:019][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9998.626953, Update Interval: 322.766205
+[2025.06.03-04.58.29:548][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10369.145508
+[2025.06.03-04.58.29:831][727]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-04.58.29:831][727]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10369.411133, Update Interval: 323.764160
+[2025.06.03-05.04.24:182][986]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10723.807617
+[2025.06.03-05.04.24:466][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-05.04.24:466][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10724.073242, Update Interval: 357.712952
+[2025.06.03-05.07.26:057][896]LogDerivedDataCache: C:/Users/susid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.03-05.11.20:872][983]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11140.403320
+[2025.06.03-05.11.21:153][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-05.11.21:153][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11140.669922, Update Interval: 355.599854
+[2025.06.03-05.13.25:852][432]LogSlate: Window 'IA_Look' being destroyed
+[2025.06.03-05.13.25:861][432]LogSlate: Window 'IA_Look' being destroyed
+[2025.06.03-05.13.33:006][857]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TimeGame/Input/PlayController.PlayController
+[2025.06.03-05.14.07:292][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.06.03-05.14.07:294][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TimeGame/Levels/Level_Play' took 0.117
+[2025.06.03-05.14.07:294][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/PlayController] ([1] browsable assets)...
+[2025.06.03-05.14.07:294][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/PlayController]
+[2025.06.03-05.14.07:295][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/Input/PlayController_Auto6
+[2025.06.03-05.14.07:295][854]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/PlayController_Auto64FE971AC4C4B235B30C3BABB15CF692F.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/Input/PlayController_Auto6.uasset'
+[2025.06.03-05.14.07:297][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IA_Accelerate] ([1] browsable assets)...
+[2025.06.03-05.14.07:297][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IA_Accelerate]
+[2025.06.03-05.14.07:297][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/Input/IA_Accelerate_Auto6
+[2025.06.03-05.14.07:297][854]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IA_Accelerate_Auto69382B63D406D16339D7A789A76E6DF7F.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/Input/IA_Accelerate_Auto6.uasset'
+[2025.06.03-05.14.07:298][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IA_Look] ([1] browsable assets)...
+[2025.06.03-05.14.07:298][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IA_Look]
+[2025.06.03-05.14.07:299][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/Input/IA_Look_Auto6
+[2025.06.03-05.14.07:299][854]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IA_Look_Auto646C7F89F477B9CCA63B3B7BA508D5E18.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/Input/IA_Look_Auto6.uasset'
+[2025.06.03-05.14.07:299][854]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.06.03-05.16.53:312][810]LogContentBrowser: Attempting asset rename: PlayController -> IMC_Gameplay
+[2025.06.03-05.16.53:467][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.03-05.16.53:467][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IMC_Gameplay] ([1] browsable assets)...
+[2025.06.03-05.16.53:467][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IMC_Gameplay]
+[2025.06.03-05.16.53:467][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/Input/IMC_Gameplay" FILE="../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IMC_Gameplay.uasset" SILENT=true
+[2025.06.03-05.16.53:469][810]LogSavePackage: Moving output files for package: /Game/TimeGame/Input/IMC_Gameplay
+[2025.06.03-05.16.53:469][810]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IMC_GameplayC69027474D4769B9A9E21A8E0A32DFFE.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IMC_Gameplay.uasset'
+[2025.06.03-05.16.53:471][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.803 ms (total: 240.824 ms)
+[2025.06.03-05.16.53:501][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.06.03-05.16.53:525][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.06.03-05.16.53:545][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.06.03-05.16.53:655][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.03-05.16.53:655][810]LogContentValidation: Enabled validators:
+[2025.06.03-05.16.53:655][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.03-05.16.53:655][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.03-05.16.53:655][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.03-05.16.53:655][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.03-05.16.53:655][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.03-05.16.53:655][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.03-05.16.53:657][810]AssetCheck: /Game/TimeGame/Input/IMC_Gameplay アセットを検証しています
+[2025.06.03-05.17.50:335][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11529.795898
+[2025.06.03-05.17.50:635][223]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-05.17.50:635][223]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11530.080078, Update Interval: 337.376617
+[2025.06.03-05.24.15:734][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.06.03-05.24.15:738][862]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TimeGame/Levels/Level_Play' took 0.030
+[2025.06.03-05.24.15:738][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IMC_Gameplay] ([1] browsable assets)...
+[2025.06.03-05.24.15:738][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IMC_Gameplay]
+[2025.06.03-05.24.15:741][862]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/Input/IMC_Gameplay_Auto7
+[2025.06.03-05.24.15:741][862]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IMC_Gameplay_Auto735442AF74ED9B174AC25659395F9C124.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/Input/IMC_Gameplay_Auto7.uasset'
+[2025.06.03-05.24.15:742][862]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.06.03-05.24.16:316][895]LogSlate: Window 'IMC_Gameplay' being destroyed
+[2025.06.03-05.24.16:325][895]LogSlate: Window 'IMC_Gameplay' being destroyed
+[2025.06.03-05.24.21:136][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11920.532227
+[2025.06.03-05.24.21:404][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-05.24.21:404][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11920.783203, Update Interval: 327.107758
+[2025.06.03-05.26.52:065][ 80]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/TimeGame/Input/IMC_Gameplay.IMC_Gameplay
+[2025.06.03-05.30.44:220][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12303.588867
+[2025.06.03-05.30.44:492][507]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.03-05.30.44:492][507]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12303.845703, Update Interval: 356.559326
+[2025.06.03-05.35.20:927][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.03-05.35.20:931][846]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TimeGame/Levels/Level_Play' took 0.036
+[2025.06.03-05.35.20:932][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IMC_Gameplay] ([1] browsable assets)...
+[2025.06.03-05.35.20:932][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IMC_Gameplay]
+[2025.06.03-05.35.20:934][846]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TimeGame/Input/IMC_Gameplay_Auto8
+[2025.06.03-05.35.20:934][846]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IMC_Gameplay_Auto89B9A98354983F797FB4BDFA8BA815C36.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/Autosaves/Game/TimeGame/Input/IMC_Gameplay_Auto8.uasset'
+[2025.06.03-05.35.20:934][846]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.06.03-05.36.24:281][620]LogSlate: Window 'IMC_Gameplay' being destroyed
+[2025.06.03-05.36.24:287][620]LogSlate: Window 'IMC_Gameplay' being destroyed
+[2025.06.03-05.36.25:656][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.03-05.36.27:269][700]LogSlate: Window 'コンテンツを保存' being destroyed
+[2025.06.03-05.36.27:301][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.03-05.36.27:364][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IA_Accelerate] ([1] browsable assets)...
+[2025.06.03-05.36.27:365][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IA_Accelerate]
+[2025.06.03-05.36.27:365][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/Input/IA_Accelerate" FILE="../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IA_Accelerate.uasset" SILENT=true
+[2025.06.03-05.36.27:365][700]LogSavePackage: Moving output files for package: /Game/TimeGame/Input/IA_Accelerate
+[2025.06.03-05.36.27:365][700]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IA_AccelerateF01514E54D0CFF71D41E2294ED6242EA.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IA_Accelerate.uasset'
+[2025.06.03-05.36.27:368][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IA_Jamp] ([1] browsable assets)...
+[2025.06.03-05.36.27:368][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IA_Jamp]
+[2025.06.03-05.36.27:368][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/Input/IA_Jamp" FILE="../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IA_Jamp.uasset" SILENT=true
+[2025.06.03-05.36.27:368][700]LogSavePackage: Moving output files for package: /Game/TimeGame/Input/IA_Jamp
+[2025.06.03-05.36.27:369][700]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IA_JampB7EE9C37419FE3BEDB95FEAD3D4C2115.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IA_Jamp.uasset'
+[2025.06.03-05.36.27:370][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IA_Look] ([1] browsable assets)...
+[2025.06.03-05.36.27:370][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IA_Look]
+[2025.06.03-05.36.27:370][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/Input/IA_Look" FILE="../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IA_Look.uasset" SILENT=true
+[2025.06.03-05.36.27:370][700]LogSavePackage: Moving output files for package: /Game/TimeGame/Input/IA_Look
+[2025.06.03-05.36.27:370][700]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IA_Look4320393C4D52EA491E302C962B860AF8.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IA_Look.uasset'
+[2025.06.03-05.36.27:372][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TimeGame/Input/IMC_Gameplay] ([1] browsable assets)...
+[2025.06.03-05.36.27:372][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/TimeGame/Input/IMC_Gameplay]
+[2025.06.03-05.36.27:372][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeGame/Input/IMC_Gameplay" FILE="../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IMC_Gameplay.uasset" SILENT=true
+[2025.06.03-05.36.27:373][700]LogSavePackage: Moving output files for package: /Game/TimeGame/Input/IMC_Gameplay
+[2025.06.03-05.36.27:375][700]LogSavePackage: Moving '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Saved/IMC_Gameplay0325BC024CD6607A8236BC8CF6B5A656.tmp' to '../../../../../../Users/susid/OneDrive/デスクトップ/TeamGit/Content/TimeGame/Input/IMC_Gameplay.uasset'
+[2025.06.03-05.36.27:387][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.889 ms (total: 326.713 ms)
+[2025.06.03-05.36.27:437][700]LogStall: Shutdown...
+[2025.06.03-05.36.27:439][700]LogStall: Shutdown complete.
+[2025.06.03-05.36.27:484][700]LogSlate: Window 'TimeGame - Unreal Editor' being destroyed
+[2025.06.03-05.36.27:820][700]LogContentValidation: Display: Starting to validate 4 assets
+[2025.06.03-05.36.27:820][700]LogContentValidation: Enabled validators:
+[2025.06.03-05.36.27:820][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.03-05.36.27:820][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.03-05.36.27:820][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.03-05.36.27:820][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.03-05.36.27:820][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.03-05.36.27:820][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.03-05.36.27:820][700]AssetCheck: /Game/TimeGame/Input/IA_Accelerate アセットを検証しています
+[2025.06.03-05.36.27:821][700]AssetCheck: /Game/TimeGame/Input/IA_Jamp アセットを検証しています
+[2025.06.03-05.36.27:821][700]AssetCheck: Error: [AssetLog] C:\Users\susid\OneDrive\デスクトップ\TeamGit\Content\TimeGame\Input\IA_Jamp.uasset: Null 入力モディファイヤは入力アクションに配置できません
+[2025.06.03-05.36.27:821][700]AssetCheck: /Game/TimeGame/Input/IA_Look アセットを検証しています
+[2025.06.03-05.36.27:821][700]AssetCheck: Error: [AssetLog] C:\Users\susid\OneDrive\デスクトップ\TeamGit\Content\TimeGame\Input\IA_Look.uasset: Null 入力トリガーは入力アクションに配置できません
+[2025.06.03-05.36.27:821][700]AssetCheck: /Game/TimeGame/Input/IMC_Gameplay アセットを検証しています
+[2025.06.03-05.36.27:876][700]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.06.03-05.36.27:876][700]Cmd: QUIT_EDITOR
+[2025.06.03-05.36.27:877][700]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.03-05.36.27:890][701]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.03-05.36.27:901][701]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.03-05.36.27:901][701]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.03-05.36.27:902][701]LogWorld: UWorld::CleanupWorld for Level_Play, bSessionEnded=true, bCleanupResources=true
+[2025.06.03-05.36.27:903][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.03-05.36.27:930][701]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.03-05.36.27:938][701]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.03-05.36.28:044][701]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.03-05.36.28:044][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.03-05.36.28:058][701]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.03-05.36.28:072][701]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.03-05.36.28:072][701]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.03-05.36.28:072][701]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.03-05.36.28:078][701]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.03-05.36.28:078][701]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.03-05.36.28:078][701]LogAudio: Display: Audio Device unregistered from world 'Level_Play'.
+[2025.06.03-05.36.28:079][701]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.03-05.36.28:083][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.03-05.36.28:092][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.03-05.36.28:146][701]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.03-05.36.28:147][701]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.03-05.36.28:152][701]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Google 日本語入力 (TSF IME).
+[2025.06.03-05.36.28:161][701]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.03-05.36.28:161][701]LogExit: Preparing to exit.
+[2025.06.03-05.36.28:234][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.06.03-05.36.28:248][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:248][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:261][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:262][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:263][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:264][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:265][701]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:265][701]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.06.03-05.36.28:901][701]LogEditorDataStorage: Deinitializing
+[2025.06.03-05.36.29:163][701]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.03-05.36.29:283][701]LogExit: Editor shut down
+[2025.06.03-05.36.29:292][701]LogExit: Transaction tracking system shut down
+[2025.06.03-05.36.29:936][701]LogExit: Object subsystem successfully closed.
+[2025.06.03-05.36.29:964][701]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.03-05.36.30:659][701]LogMemoryProfiler: Shutdown
+[2025.06.03-05.36.30:659][701]LogNetworkingProfiler: Shutdown
+[2025.06.03-05.36.30:659][701]LoadingProfiler: Shutdown
+[2025.06.03-05.36.30:659][701]LogTimingProfiler: Shutdown
+[2025.06.03-05.36.31:664][701]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.03-05.36.31:711][701]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.03-05.36.31:711][701]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB70EF7C8-451F-1933-2F7B-949D2077FB77%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=1abab8f74572ffe928b9ce9e2386c454%7C53599d9f14cb48fe86b1fd1a8dd72f71%7C22b629c2-ed69-4ea3-8f30-0ef8b5f844c0&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.03-05.36.32:802][701]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.03-05.36.32:802][701]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.03-05.36.32:803][701]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.03-05.36.32:805][701]RenderDocPlugin: plugin has been unloaded.
+[2025.06.03-05.36.32:817][701]LogXGEController: Cleaning working directory: C:/Users/susid/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.06.03-05.36.32:832][701]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.03-05.36.32:832][701]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.03-05.36.32:833][701]LogPakFile: Destroying PakPlatformFile
+[2025.06.03-05.36.33:216][701]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.03-05.36.33:283][701]LogExit: Exiting.
+[2025.06.03-05.36.33:342][701]Log file closed, 06/03/25 14:36:33

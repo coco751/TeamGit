@@ -6,8 +6,8 @@ Intermediate/
 Saved/
 
 #content
-!Content/
-Content/ParagonAurora/
+Content/*
+!Content/TimeGame/**
 
 # 一部のプラグインで生成されるキャッシュ
 .vscode/

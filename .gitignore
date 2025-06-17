@@ -5,8 +5,9 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
-#content
+# Contentフォルダの制御
 Content/*
+!Content/TimeGame/
 !Content/TimeGame/**
 
 # 一部のプラグインで生成されるキャッシュ

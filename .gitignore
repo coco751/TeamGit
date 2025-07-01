@@ -9,6 +9,8 @@ Saved/
 Content/*
 !Content/TimeGame/
 !Content/TimeGame/**
+!Content/ThirdPerson/
+!Content/ThirdPerson/**
 
 # 一部のプラグインで生成されるキャッシュ
 .vscode/

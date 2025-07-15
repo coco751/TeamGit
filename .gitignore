@@ -5,9 +5,10 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
-#content
-!Content/
-Content/ParagonAurora/
+# Contentフォルダの制御
+Content/*
+!Content/TimeGame/
+!Content/TimeGame/**
 
 # 一部のプラグインで生成されるキャッシュ
 .vscode/
@@ -57,3 +58,4 @@ Thumbs.db
 # Unreal Engine プロジェクトの自動生成 Visual Studio プロジェクトファイル
 *.sln
 *.vcxproj*
+
